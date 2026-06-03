@@ -1,0 +1,151 @@
+client_id,entry_date,age,gender,race_ethnicity,veteran_status,disability_status,program_type,prior_episodes,length_of_stay,services_received,mental_health_support,substance_use_support,employment_assistance,case_management_intensity,housing_placement_days,monthly_income_at_exit,referral_source,exit_status,follow_up_status
+1,2024-11-28,52,Male,Hispanic,0,1,Rapid Rehousing,2,122,6,0,0,0,Low,41,485,Hospital,Permanent,Stable
+2,2024-10-01,42,Male,White,0,1,Permanent Supportive Housing,1,279,4,0,0,0,Low,138,522,Partner Agency,Permanent,At Risk
+3,2024-07-08,51,Male,White,0,1,Rapid Rehousing,1,112,3,1,1,1,High,42,603,Hospital,Permanent,Stable
+4,2024-07-24,31,Male,Black,0,1,Emergency Shelter,0,22,5,1,0,0,High,22,233,Self,Permanent,NA
+5,2024-09-17,34,Female,Black,0,0,Transitional Housing,0,101,7,1,0,0,Low,52,305,Hospital,Permanent,At Risk
+6,2024-02-27,34,Male,Black,0,0,Emergency Shelter,0,33,8,1,1,1,High,33,988,Self,Permanent,Stable
+7,2024-11-02,63,Male,White,0,1,Rapid Rehousing,1,144,8,1,0,0,High,98,189,Street Outreach,Permanent,Stable
+8,2024-09-27,40,Female,Other,0,0,Rapid Rehousing,2,114,7,0,1,1,Medium,23,877,Self,Returned To Homelessness,At Risk
+9,2024-04-27,25,Female,Black,0,0,Emergency Shelter,7,29,5,0,0,0,Low,2,693,Street Outreach,Permanent,Stable
+10,2024-12-10,25,Female,Hispanic,0,0,Emergency Shelter,2,20,4,1,0,0,Medium,5,0,Street Outreach,Returned To Homelessness,Stable
+11,2024-02-17,47,Male,White,0,1,Emergency Shelter,4,30,8,0,1,1,Medium,1,996,Street Outreach,Returned To Homelessness,At Risk
+12,2024-04-21,53,Nonbinary,White,0,0,Transitional Housing,2,103,2,0,1,1,Low,46,890,Self,Returned To Homelessness,Returned
+13,2024-01-21,18,Male,Other,0,0,Transitional Housing,2,163,8,1,1,0,Low,54,261,Shelter Intake,Permanent,Stable
+14,2024-10-02,47,Male,Black,0,0,Permanent Supportive Housing,4,295,1,0,1,0,High,166,201,Street Outreach,Permanent,Stable
+15,2024-05-15,36,Female,Hispanic,0,1,Permanent Supportive Housing,2,324,4,1,0,1,High,324,NA,Hospital,Permanent,Stable
+16,2024-03-23,40,Female,White,0,1,Transitional Housing,0,122,5,1,0,0,High,52,435,Self,Permanent,Stable
+17,2024-12-15,62,Male,Hispanic,0,0,Emergency Shelter,0,13,6,0,0,1,High,13,NA,Hospital,Permanent,Stable
+18,2024-05-16,36,Female,Hispanic,1,1,Transitional Housing,1,180,2,1,0,1,High,77,1029,Hospital,Permanent,Stable
+19,2024-07-23,51,Male,Hispanic,1,0,Transitional Housing,5,141,8,1,0,0,Medium,61,473,Shelter Intake,Permanent,At Risk
+20,2024-12-28,40,Nonbinary,White,0,0,Permanent Supportive Housing,4,325,9,1,0,1,Low,155,608,Street Outreach,Permanent,Stable
+21,2024-10-10,41,Male,Other,1,1,Permanent Supportive Housing,0,236,2,1,0,1,Medium,131,836,Self,Permanent,Stable
+22,2024-12-03,33,Male,White,0,0,Permanent Supportive Housing,1,254,4,1,1,0,Medium,103,245,Hospital,Permanent,Stable
+23,2024-09-10,42,Male,White,0,0,Rapid Rehousing,0,112,2,1,1,0,Low,35,0,Partner Agency,Permanent,Stable
+24,2024-10-31,58,Male,Hispanic,0,0,Permanent Supportive Housing,0,289,7,1,1,0,Medium,99,588,Shelter Intake,Permanent,At Risk
+25,2024-02-09,18,Male,White,1,0,Permanent Supportive Housing,3,171,5,1,1,0,Low,57,891,Partner Agency,Permanent,Stable
+26,2024-10-21,49,Male,White,0,0,Emergency Shelter,3,31,2,1,0,1,High,14,470,Street Outreach,Temporary,NA
+27,2024-03-06,23,Male,Black,0,0,Permanent Supportive Housing,3,184,4,0,0,0,Low,60,210,Partner Agency,Returned To Homelessness,Returned
+28,2024-01-10,18,Male,White,0,0,Emergency Shelter,3,23,7,0,1,0,High,11,516,Partner Agency,Temporary,Returned
+29,2024-11-06,45,Male,Hispanic,0,0,Permanent Supportive Housing,2,250,3,1,0,1,Medium,114,826,Shelter Intake,Permanent,Stable
+30,2024-03-02,18,Female,Hispanic,0,1,Transitional Housing,0,166,5,0,1,1,Medium,96,1061,Shelter Intake,Permanent,Stable
+31,2024-11-11,59,Male,Black,0,0,Rapid Rehousing,3,107,6,0,1,0,Medium,21,585,Self,Returned To Homelessness,Returned
+32,2024-06-23,56,Male,Hispanic,0,0,Emergency Shelter,0,21,6,1,0,0,Low,21,193,Self,Permanent,NA
+33,2024-07-07,45,Male,Black,0,0,Transitional Housing,3,149,4,1,0,0,Low,40,614,Shelter Intake,Permanent,Stable
+34,2024-11-01,38,Male,White,0,0,Transitional Housing,0,153,6,1,1,0,Medium,73,595,Shelter Intake,Permanent,Stable
+35,2024-06-23,58,Male,Other,0,1,Emergency Shelter,2,19,7,0,1,0,Medium,19,312,Partner Agency,Permanent,Stable
+36,2024-09-24,37,Female,White,0,0,Rapid Rehousing,2,62,5,0,1,0,High,20,751,Hospital,Permanent,At Risk
+37,2024-08-28,37,Female,White,0,1,Transitional Housing,1,114,4,0,0,0,Medium,43,29,Shelter Intake,Permanent,Stable
+38,2024-06-06,30,Female,Black,0,1,Transitional Housing,0,89,8,0,0,1,Low,57,847,Hospital,Permanent,At Risk
+39,2024-10-27,37,Male,Black,0,0,Transitional Housing,3,123,7,1,1,0,Medium,54,493,Shelter Intake,Returned To Homelessness,Returned
+40,2024-07-29,23,Female,White,0,1,Rapid Rehousing,2,125,3,1,0,0,High,87,259,Self,Permanent,Stable
+41,2024-11-16,31,Male,Other,0,0,Transitional Housing,2,130,4,1,1,0,Medium,57,556,Partner Agency,Permanent,Stable
+42,2024-11-27,52,Male,Black,0,1,Transitional Housing,0,176,6,0,0,0,Low,74,116,Street Outreach,Permanent,Stable
+43,2024-05-16,60,Male,Black,0,1,Emergency Shelter,0,35,4,1,1,1,Medium,1,481,Shelter Intake,Temporary,At Risk
+44,2024-06-11,51,Male,Black,0,0,Transitional Housing,3,110,4,0,0,1,High,56,742,Street Outreach,Permanent,Stable
+45,2024-12-01,57,Male,White,0,0,Rapid Rehousing,0,90,3,1,1,0,Medium,38,781,Partner Agency,Temporary,Returned
+46,2024-04-26,52,Female,Black,1,1,Transitional Housing,2,105,4,1,0,0,Medium,68,633,Self,Permanent,Stable
+47,2024-11-08,23,Female,White,0,0,Permanent Supportive Housing,3,197,1,0,0,0,Low,90,993,Street Outreach,Permanent,Stable
+48,2024-12-19,32,Male,White,0,1,Emergency Shelter,2,31,3,1,0,0,Medium,19,663,Partner Agency,Permanent,NA
+49,2024-09-11,43,Female,Other,0,1,Transitional Housing,4,74,4,1,0,0,Low,37,884,Shelter Intake,Returned To Homelessness,Returned
+50,2024-02-16,45,Female,Hispanic,0,0,Emergency Shelter,3,23,5,0,1,0,Medium,19,855,Hospital,Temporary,Returned
+51,2024-12-12,31,Male,White,1,1,Permanent Supportive Housing,3,176,6,1,0,1,Low,111,884,Hospital,Permanent,Returned
+52,2024-06-16,42,Male,Black,0,1,Transitional Housing,1,133,6,1,1,1,Low,90,1167,Shelter Intake,Permanent,Stable
+53,2024-08-02,37,Male,Other,0,0,Permanent Supportive Housing,3,265,2,0,1,0,Medium,138,169,Shelter Intake,Permanent,Stable
+54,2024-07-22,19,Male,Hispanic,0,0,Rapid Rehousing,0,132,2,0,0,1,Medium,91,827,Street Outreach,Permanent,Returned
+55,2024-06-17,46,Nonbinary,White,0,1,Emergency Shelter,4,22,2,1,0,1,High,1,1716,Hospital,Returned To Homelessness,Returned
+56,2024-02-02,19,Male,Hispanic,0,0,Permanent Supportive Housing,1,271,5,1,1,0,Medium,113,409,Street Outreach,Permanent,At Risk
+57,2024-02-07,45,Female,Hispanic,0,0,Transitional Housing,1,146,2,1,0,0,Medium,83,679,Partner Agency,Temporary,At Risk
+58,2024-08-19,39,Female,White,0,0,Transitional Housing,0,93,7,1,0,1,High,50,748,Partner Agency,Permanent,Stable
+59,2024-10-27,37,Male,Other,0,0,Rapid Rehousing,3,72,5,0,0,0,Low,1,701,Street Outreach,Returned To Homelessness,Returned
+60,2024-05-22,18,Male,White,0,0,Permanent Supportive Housing,3,194,6,1,0,0,Medium,114,0,Street Outreach,Permanent,At Risk
+61,2024-12-02,27,Male,Hispanic,0,0,Rapid Rehousing,0,97,5,0,1,0,High,40,371,Shelter Intake,Permanent,Stable
+62,2024-08-14,44,Male,Black,0,1,Rapid Rehousing,3,122,7,1,0,0,Medium,41,493,Self,Permanent,Stable
+63,2024-05-10,52,Male,Hispanic,0,1,Rapid Rehousing,3,95,7,0,0,0,Low,23,424,Hospital,Permanent,Stable
+64,2024-12-29,32,Female,Hispanic,0,0,Emergency Shelter,1,27,7,1,0,0,Medium,22,386,Partner Agency,Temporary,Returned
+65,2024-09-18,22,Male,Black,0,0,Permanent Supportive Housing,2,197,5,0,0,1,High,99,1402,Street Outreach,Permanent,Stable
+66,2024-10-23,60,Male,White,0,0,Transitional Housing,1,107,8,0,1,0,Medium,24,274,Shelter Intake,Permanent,At Risk
+67,2024-02-09,54,Male,White,0,0,Rapid Rehousing,0,119,4,0,0,0,Low,73,607,Self,Permanent,Returned
+68,2024-12-31,18,Female,White,1,0,Transitional Housing,0,111,7,0,1,0,High,77,519,Self,Permanent,Stable
+69,2024-05-25,24,Male,Hispanic,0,1,Permanent Supportive Housing,1,286,4,1,0,1,Medium,152,901,Partner Agency,Permanent,At Risk
+70,2024-12-09,58,Female,Black,0,1,Emergency Shelter,3,21,2,0,1,0,Medium,16,359,Hospital,Returned To Homelessness,Returned
+71,2024-09-26,39,Male,Other,0,1,Rapid Rehousing,2,135,4,0,1,0,Medium,61,282,Shelter Intake,Permanent,Stable
+72,2024-04-29,54,Female,Hispanic,0,0,Transitional Housing,4,128,3,0,1,0,Medium,64,147,Partner Agency,Permanent,Stable
+73,2024-07-09,20,Nonbinary,Black,0,0,Rapid Rehousing,5,82,5,1,1,1,Low,56,561,Partner Agency,Permanent,Stable
+74,2024-07-16,42,Female,White,0,1,Transitional Housing,0,121,6,0,0,0,Medium,85,210,Hospital,Temporary,Stable
+75,2024-11-07,43,Male,Hispanic,0,0,Rapid Rehousing,1,103,6,1,0,0,High,42,633,Shelter Intake,Permanent,Stable
+76,2024-10-19,21,Male,White,1,0,Emergency Shelter,3,30,6,0,0,0,Medium,NA,NA,Hospital,Returned To Homelessness,At Risk
+77,2024-10-24,18,Female,Black,0,1,Transitional Housing,1,93,5,1,0,0,Medium,63,509,Street Outreach,Permanent,Stable
+78,2024-06-10,52,Male,Hispanic,0,1,Rapid Rehousing,4,101,5,0,1,0,Low,32,366,Street Outreach,Returned To Homelessness,Returned
+79,2024-12-20,46,Female,Hispanic,0,0,Rapid Rehousing,3,80,7,0,1,1,High,3,923,Partner Agency,Permanent,At Risk
+80,2024-06-29,57,Female,Black,0,0,Rapid Rehousing,3,111,2,1,0,0,Medium,29,66,Street Outreach,Permanent,Stable
+81,2024-07-15,35,Male,Hispanic,0,0,Emergency Shelter,0,28,6,1,1,0,Medium,1,497,Self,Temporary,At Risk
+82,2024-04-19,48,Male,Black,0,1,Transitional Housing,2,112,6,0,0,0,High,41,427,Partner Agency,Temporary,Returned
+83,2024-07-04,18,Male,White,0,1,Rapid Rehousing,3,81,1,0,0,0,High,39,555,Hospital,Permanent,Stable
+84,2024-02-07,58,Male,Hispanic,0,0,Rapid Rehousing,2,66,4,0,0,1,High,47,1110,Shelter Intake,Permanent,Stable
+85,2024-06-26,58,Female,Black,0,0,Transitional Housing,4,117,3,1,1,1,Low,63,1061,Hospital,Returned To Homelessness,At Risk
+86,2024-01-15,39,Female,White,0,0,Permanent Supportive Housing,4,208,7,1,0,1,High,95,777,Street Outreach,Permanent,Returned
+87,2024-08-13,25,Male,Hispanic,0,1,Emergency Shelter,1,28,3,0,0,1,Medium,28,1385,Hospital,Returned To Homelessness,At Risk
+88,2024-08-02,53,Male,Hispanic,0,0,Transitional Housing,1,127,5,0,0,0,High,65,615,Shelter Intake,Permanent,At Risk
+89,2024-05-24,33,Male,Black,0,0,Transitional Housing,4,115,6,0,1,0,Medium,40,178,Street Outreach,Permanent,At Risk
+90,2024-05-23,49,Female,Hispanic,0,0,Transitional Housing,0,116,4,0,0,0,Medium,44,332,Shelter Intake,Permanent,Stable
+91,2024-11-06,18,Female,Black,0,0,Emergency Shelter,5,14,4,0,0,0,Medium,2,656,Hospital,Temporary,Returned
+92,2024-11-01,51,Male,Black,0,0,Transitional Housing,0,139,7,1,0,0,Medium,68,0,Street Outreach,Permanent,Returned
+93,2024-08-02,38,Male,Black,0,1,Transitional Housing,0,115,6,0,1,0,Low,25,659,Self,Permanent,Stable
+94,2024-12-12,56,Male,White,0,0,Permanent Supportive Housing,0,357,7,1,0,0,Medium,143,106,Self,Permanent,Stable
+95,2024-05-27,45,Female,White,1,0,Transitional Housing,3,145,4,0,0,1,High,28,1479,Self,Permanent,Stable
+96,2024-03-11,64,Male,White,0,0,Rapid Rehousing,1,123,6,0,0,0,High,55,503,Self,Permanent,At Risk
+97,2024-09-01,43,Male,Black,0,1,Permanent Supportive Housing,3,313,7,0,1,1,High,137,1187,Partner Agency,Permanent,At Risk
+98,2024-04-05,44,Male,Hispanic,1,0,Emergency Shelter,0,24,6,1,0,1,High,12,955,Partner Agency,Returned To Homelessness,Returned
+99,2024-11-27,70,Male,Other,0,0,Transitional Housing,5,133,5,1,1,0,Low,133,NA,Partner Agency,Permanent,Stable
+100,2024-07-15,42,Female,Hispanic,0,0,Transitional Housing,1,140,6,0,1,0,Low,77,357,Self,Permanent,At Risk
+101,2024-07-07,60,Female,White,0,0,Rapid Rehousing,2,75,4,0,0,1,Low,40,1091,Self,Permanent,Stable
+102,2024-02-09,31,Male,Black,0,1,Rapid Rehousing,1,87,6,0,0,1,Medium,49,879,Self,Temporary,Returned
+103,2024-08-24,55,Male,Hispanic,0,0,Transitional Housing,4,142,7,1,0,0,Medium,77,447,Shelter Intake,Permanent,Stable
+104,2024-07-10,43,Male,Hispanic,0,0,Emergency Shelter,2,28,5,1,1,0,Low,27,280,Partner Agency,Temporary,Returned
+105,2024-08-05,33,Female,Black,0,0,Rapid Rehousing,0,95,5,1,1,0,Low,43,659,Shelter Intake,Permanent,At Risk
+106,2024-05-05,61,Male,Hispanic,0,1,Emergency Shelter,1,25,5,1,0,0,Medium,18,928,Street Outreach,Returned To Homelessness,At Risk
+107,2024-05-20,31,Female,Hispanic,0,0,Emergency Shelter,2,32,7,1,0,0,Low,32,27,Self,Permanent,Returned
+108,2024-06-02,28,Nonbinary,Other,0,1,Rapid Rehousing,2,122,2,0,0,0,Medium,72,515,Hospital,Temporary,Returned
+109,2024-02-07,29,Male,Black,0,0,Transitional Housing,1,129,7,0,0,1,Medium,54,651,Street Outreach,Permanent,At Risk
+110,2024-10-09,49,Female,White,1,1,Transitional Housing,0,160,5,0,1,0,Low,46,499,Hospital,Permanent,Stable
+111,2024-05-13,24,Male,Hispanic,0,1,Transitional Housing,4,136,9,0,0,0,Medium,58,206,Street Outreach,Permanent,Stable
+112,2024-03-27,44,Male,Black,1,0,Emergency Shelter,4,18,5,1,0,1,Medium,18,1479,Self,Permanent,Stable
+113,2024-07-10,57,Female,White,0,0,Permanent Supportive Housing,1,254,6,0,0,1,Low,150,748,Partner Agency,Permanent,Stable
+114,2024-09-25,57,Male,White,0,0,Rapid Rehousing,2,118,1,0,0,1,Low,20,900,Street Outreach,Permanent,Stable
+115,2024-07-12,31,Male,Black,1,0,Emergency Shelter,3,16,7,1,1,1,Low,16,1249,Partner Agency,Temporary,Stable
+116,2024-10-05,45,Female,White,0,0,Transitional Housing,0,121,4,0,1,1,Low,68,882,Self,Permanent,Stable
+117,2024-12-18,23,Female,Black,0,0,Permanent Supportive Housing,0,207,7,0,1,0,High,99,406,Hospital,Permanent,Stable
+118,2024-04-05,48,Female,Other,0,1,Transitional Housing,0,121,3,0,0,1,High,75,1165,Partner Agency,Permanent,Stable
+119,2024-02-14,40,Male,Hispanic,0,1,Rapid Rehousing,1,115,4,0,0,0,Low,34,330,Hospital,Permanent,Stable
+120,2024-12-16,38,Female,Black,0,0,Emergency Shelter,2,15,10,0,0,1,Medium,3,1267,Hospital,Permanent,Stable
+121,2024-11-13,29,Male,White,0,0,Emergency Shelter,2,28,6,1,1,0,High,1,624,Self,Returned To Homelessness,Returned
+122,2024-07-11,32,Female,Hispanic,0,0,Rapid Rehousing,1,48,1,0,0,1,High,1,1432,Self,Permanent,At Risk
+123,2024-03-12,50,Female,White,0,1,Emergency Shelter,2,30,9,0,1,1,High,6,532,Partner Agency,Temporary,Returned
+124,2024-02-25,56,Male,Black,1,1,Emergency Shelter,1,20,7,1,1,0,Medium,6,357,Street Outreach,Returned To Homelessness,At Risk
+125,2024-08-25,36,Female,Other,0,0,Permanent Supportive Housing,0,201,2,0,0,0,Medium,73,419,Partner Agency,Permanent,Stable
+126,2024-06-12,52,Female,White,1,0,Emergency Shelter,3,25,3,0,0,0,Medium,10,366,Partner Agency,Permanent,Stable
+127,2024-07-21,60,Female,Hispanic,0,0,Transitional Housing,4,79,6,0,0,0,Low,43,749,Partner Agency,Permanent,Stable
+128,2024-11-23,39,Female,Hispanic,0,0,Transitional Housing,0,126,3,1,0,0,High,49,500,Shelter Intake,Permanent,Stable
+129,2024-08-02,34,Female,Hispanic,1,0,Transitional Housing,2,139,7,1,0,0,Low,44,559,Partner Agency,Permanent,Stable
+130,2024-10-14,68,Male,White,0,0,Transitional Housing,0,109,7,1,1,1,Low,41,732,Partner Agency,Permanent,Stable
+131,2024-10-20,36,Male,Hispanic,0,0,Rapid Rehousing,2,54,5,1,0,0,Medium,31,197,Street Outreach,Permanent,At Risk
+132,2024-03-01,62,Male,Other,0,1,Rapid Rehousing,2,101,3,1,0,1,High,54,658,Partner Agency,Permanent,Stable
+133,2024-10-20,37,Male,White,0,0,Transitional Housing,0,113,3,0,0,0,Medium,77,384,Self,Permanent,At Risk
+134,2024-03-13,64,Female,Other,1,0,Emergency Shelter,1,15,7,1,0,1,Medium,1,1089,Partner Agency,Temporary,Returned
+135,2024-02-02,55,Male,Other,0,1,Permanent Supportive Housing,3,143,5,0,0,1,Medium,97,883,Self,Permanent,Stable
+136,2024-08-13,37,Male,White,1,1,Transitional Housing,3,79,2,1,1,0,Low,1,796,Hospital,Permanent,Returned
+137,2024-08-07,50,Female,Hispanic,0,0,Permanent Supportive Housing,1,266,8,0,1,1,Medium,140,982,Hospital,Permanent,Stable
+138,2024-07-07,44,Male,Hispanic,0,1,Emergency Shelter,4,31,2,0,0,0,Low,14,281,Self,Temporary,Returned
+139,2024-03-12,51,Male,Hispanic,0,1,Permanent Supportive Housing,3,130,3,1,0,0,Low,23,865,Street Outreach,Permanent,Stable
+140,2024-04-06,48,Male,Black,0,0,Transitional Housing,3,98,4,1,1,1,Medium,80,1166,Shelter Intake,Permanent,Stable
+141,2024-08-29,35,Male,Black,0,1,Permanent Supportive Housing,2,180,7,1,1,0,Medium,87,430,Hospital,Permanent,At Risk
+142,2024-02-10,46,Female,Black,0,0,Emergency Shelter,2,23,2,0,1,0,Low,1,361,Self,Temporary,Returned
+143,2024-03-02,51,Male,Hispanic,0,1,Rapid Rehousing,0,104,2,0,0,0,Medium,67,441,Hospital,Permanent,Stable
+144,2024-12-30,18,Male,Black,0,1,Transitional Housing,1,147,4,1,0,1,Medium,60,974,Self,Returned To Homelessness,Returned
+145,2024-04-01,45,Female,Hispanic,0,0,Rapid Rehousing,2,95,6,1,0,1,Medium,68,760,Hospital,Returned To Homelessness,Returned
+146,2024-08-26,36,Female,White,0,0,Transitional Housing,3,40,7,1,1,0,High,35,568,Street Outreach,Returned To Homelessness,At Risk
+147,2024-01-13,36,Female,White,0,1,Transitional Housing,4,104,1,1,1,1,Low,66,529,Partner Agency,Permanent,Stable
+148,2024-09-23,61,Female,Hispanic,0,0,Permanent Supportive Housing,2,238,8,0,0,0,Low,78,531,Hospital,Permanent,At Risk
+149,2024-06-11,23,Male,Black,0,1,Transitional Housing,2,106,7,0,0,1,High,56,931,Self,Permanent,Stable
+150,2024-12-26,46,Male,Black,0,0,Rapid Rehousing,2,86,6,1,0,0,High,46,221,Self,Permanent,Stable
